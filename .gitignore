@@ -1,0 +1,5 @@
+*.o
+/test/sockaddr_equal
+/test/merge_fd_arrays
+/test/sockaddr_to_string
+/test/string_to_sockaddr
