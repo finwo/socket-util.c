@@ -1,1 +1,1 @@
-src/socket-util.h
+include/finwo/socket-util.h src/socket-util.h
